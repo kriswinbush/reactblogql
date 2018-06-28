@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "blogql"
+		},
+		{
+			"path": "server"
+		}
+	],
+	"settings": {
+		"javascript.validate.enable": false
+	}
+}
